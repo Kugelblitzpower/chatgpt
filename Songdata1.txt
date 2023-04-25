@@ -1,0 +1,245 @@
+Song Number,Title,Artist,Release,BPM,Energy,Dance,Loud,Valence,Duration,Acoustic,Populariy,A.Sep,Rnd
+1,SnakeRoot,Lis Addison,1/01/2008,128,15,52,-20,4,8:04,90,42,23,9798
+2,Child of Magdalene,Scarlet Crow,9/05/2017,105,13,29,-14,8,6:01,89,19,24,7980
+3,Deep Sleep Womb Sounds,Inlet Noise,3/11/2022,67,4,30,-41,33,3:33,94,50,25,8262
+4,Ambient Noise for Babies Sleep 4 (Heartbeat),ASMR Whisperers,13/06/2022,135,10,45,-38,29,3:26,93,46,26,7439
+5,Naked,Anoushka Shankar,26/09/2005,81,9,16,-18,4,4:17,88,48,27,1563
+6,Sit Around The Fire,Jon Hopkins,12/11/2021,63,23,22,-24,16,8:23,92,50,28,7595
+7,Flights of Ecstacy,Desert Dwellers,19/11/2012,120,73,63,-11,53,7:36,7,23,0,4522
+8,Whirling Within,Desert Dwellers,19/11/2012,108,79,71,-10,55,6:04,3,27,48,624
+9,The Embrace of Samadhi,Desert Dwellers,19/11/2012,100,64,58,-11,4,7:05,1,25,97,2847
+10,Ecstatic Rapture (Open Space Mix),Desert Dwellers,19/11/2012,100,30,27,-15,13,8:12,77,23,145,4221
+11,Lotus Garden Spaces,Desert Dwellers,19/11/2012,89,35,10,-16,7,7:59,88,33,194,1640
+12,Gahar Saans Lene,Yog Sthaan,10/03/2023,73,1,7,-28,24,3:31,99,50,29,5907
+13,Conscious Journey,Sacred Flute,23/09/2022,84,6,9,-23,4,2:16,98,57,30,2262
+14,Garden Dancers,Ganesh Punja,27/11/2022,100,40,79,-8,9,4:02,50,47,31,3189
+15,Rise of the Capital,Takano Marise,14/04/2023,140,25,68,-16,5,2:45,51,37,32,415
+16,Sudhar,Sangenjaya,6/01/2023,65,23,13,-17,5,3:13,99,50,33,4531
+17,Rishikesh,AG Sintonia Project,27/01/2023,82,8,8,-17,3,3:42,90,42,34,2984
+18,Slowly Healing,Krishna's Flute,12/01/2023,73,1,16,-29,5,3:06,99,47,35,5793
+19,Pugli,Panini Sanyal,8/01/2023,72,10,21,-14,3,3:16,90,40,36,592
+20,Restful Soul,Buddha's Flute,12/01/2023,151,2,12,-28,3,3:07,99,46,37,7637
+21,Bedside Angels,Sleepy Stills,18/09/2019,71,5,27,-24,4,2:15,96,49,38,8028
+22,Puja - Soundscape Mix,For the Good of All,4/05/2022,81,24,19,-15,3,5:52,92,41,39,2518
+23,Peaceful Being,Maneesh de Moor,23/04/2021,114,17,17,-19,4,5:28,60,36,4,3034
+24,Sahana Vavatu (For Inner Nourishment),Manish Vyas,31/07/2017,125,5,19,-18,4,5:59,93,43,40,7704
+25,When Acid Ate Ur Brain - Zuma Dionys Remix,Sonya Rubleva,11/02/2019,100,35,50,-11,13,5:31,7,4,7,377
+26,NGC 2664,Sonya Rubleva,11/02/2019,105,43,75,-12,7,4:21,20,0,122,4231
+27,88's,Cherry Pit,16/06/2019,110,65,81,-13,18,1:04,2,19,41,6416
+28,Canto De Ossanha,Baden Powell,1/01/1999,87,47,41,-14,66,3:25,55,26,11,9212
+29,Antiphona Insurrexerunt in me,Anonymous,1/01/2013,137,7,23,-24,7,2:32,93,1,42,2094
+30,Adi Shakti,Raio,7/09/2021,144,41,63,-12,29,7:17,85,36,5,6300
+31,Adi Shakti Mantra,Gurudass,2/07/1999,122,40,56,-13,58,31:36:00,69,27,43,3589
+32,Adi Shakti - Jungle Kitchen Remix,Raio,13/09/2021,83,56,70,-11,41,4:16,34,39,80,1185
+33,Adi Shakti,Raio,14/09/2021,144,41,63,-12,29,7:17,85,14,161,7825
+34,Overture,Silvio Piesco,16/11/2017,120,8,36,-20,4,1:22,58,53,44,3922
+35,Sirenita Bobinsana,Maneesh de Moor,27/09/2017,109,35,54,-14,26,3:57,86,39,81,9554
+36,Love Is the Medicine,Ali Maya,7/11/2019,83,11,39,-19,8,1:39,94,42,45,1879
+37,Alghosa,Jungle Kitchen,26/04/2022,113,72,65,-11,37,3:49,74,29,46,818
+38,Chennai Anthem,Dolkar Gurung,26/09/2017,80,52,59,-15,54,3:48,7,38,47,3580
+39,Bonteka,Ayla Nereo,1/07/2016,114,9,61,-17,22,2:38,99,36,51,9787
+40,Salvia,Rainer Scheurenbrand,2/02/2017,164,17,38,-23,14,5:13,97,33,52,8025
+41,Fula Fula,Raio,14/03/2023,165,42,80,-12,35,4:47,59,21,236,8802
+42,Inikanaue Kaiowá (Fanfara Electronica Remix),Pasaje Universo,6/07/2020,90,35,81,-12,35,4:48,32,34,53,7159
+43,Souls Of My Ancestors,Delia Chariker,14/09/2003,98,1,23,-28,16,4:43,99,34,54,6795
+44,Hey Neyana,Christian Bollmann,1/12/1999,114,11,49,-22,32,3:53,92,41,55,6866
+45,Ilon Säie - Shine While You Live,Kumea Sound,2015,170,12,32,-23,26,2:58,99,26,56,3923
+46,Fire - Ceremony (feat. Anukai Arun),Master Minded,16/04/2015,171,25,20,-11,3,3:55,22,31,57,3030
+47,Earth Drone,Verdell Primeaux,1/01/1997,90,10,22,-20,9,3:24,90,28,58,7270
+48,Lutar - Chronical Deep Clap Back,Hypaphonik,21/01/2022,115,75,76,-9,11,7:23,25,35,59,9664
+49,Água - Diogo Strausz & JKriv Remix Single Edit,BaianaSystem,9/04/2021,110,63,77,-9,59,4:58,4,34,61,5753
+50,Afro Sambroso - Rampa Version,Lokkhi Terra,6/03/2020,123,54,82,-12,10,5:30,13,38,62,1010
+51,Ciclos,Antaares,12/08/2022,108,63,81,-11,15,6:37,2,38,63,6208
+52,Lit,Hezarfen,28/10/2022,100,43,81,-17,43,6:00,52,34,64,1252
+53,"Se Va, Se Va",Santi & Tu?çe,27/01/2023,120,57,76,-8,14,7:30,34,42,65,4141
+54,Pervaz,Netam,14/01/2022,196,77,53,-10,48,4:37,5,35,66,215
+55,Caminata,Montezuma,18/06/2021,123,68,69,-9,7,6:56,32,40,12,6767
+56,The Landing - Nadav Dagon & JPattersson,JPattersson,20/01/2021,97,70,74,-10,41,7:15,20,39,67,5
+57,Parivartan,Elcor,13/12/2021,114,43,75,-17,5,8:07,39,39,68,7428
+58,Ormila,Majed Zane,7/02/2022,106,68,73,-10,22,4:59,27,43,69,8977
+59,Into Your Tribe - Bedouin Remix,Soul Of Zoo,1/07/2022,121,51,84,-11,13,7:35,0,40,70,1169
+60,La Isla - Radio Version,Megablast,1/07/2022,120,79,82,-9,60,3:13,10,42,71,2967
+61,Quetzal,Montezuma,2/04/2021,128,72,75,-10,7,7:38,8,39,220,569
+62,Heinz,Geju,27/01/2023,107,66,87,-14,15,6:35,38,32,72,4441
+63,Ramona,Fort Romeau,11/02/2022,125,52,75,-10,39,7:04,0,31,73,6538
+64,Alongside - Omeria & NU Edit,Nu,2/04/2021,109,49,80,-13,14,6:50,29,42,74,3993
+65,RAI,Sound Quelle,19/11/2021,118,81,71,-9,27,3:58,0,41,75,8447
+66,Beyond Strings,Ghenwa Nemnom,3/06/2022,118,68,79,-9,14,7:32,47,36,76,2751
+67,Aruna Chandra,Mashti,22/11/2019,100,65,77,-11,21,8:58,0,46,77,160
+68,Boho,Slow Nomaden,21/04/2023,105,51,74,-11,20,4:53,0,25,78,4974
+69,Mori Shej,Satori,5/03/2021,118,58,66,-9,4,4:34,28,48,79,4074
+70,Quem Sou Eu,Xique-Xique,20/08/2021,90,72,74,-11,52,5:29,2,39,83,2095
+71,State the Obvious,Be Svendsen,7/05/2021,116,78,81,-10,5,7:49,3,42,84,7236
+72,Feather - Iorie & Madmotormiquel Remix,Nhii,14/02/2020,114,51,86,-9,24,7:07,9,45,85,1657
+73,Fire Gathering - ReGen: ATYYA Remix,Liquid Bloom,25/08/2017,120,28,72,-13,12,7:16,1,38,1,2570
+74,Amazonia,Aleceo,7/01/2020,93,67,73,-10,37,8:22,20,0,13,4379
+75,Motherland,The Human Experience,4/10/2019,105,69,72,-8,18,5:33,26,0,86,3164
+76,Otorongo - Jakare Remix,Poranguí,16/08/2019,105,63,68,-10,48,8:31,1,21,8,5127
+77,Shaman's Dream,AIWAA,10/11/2017,190,60,47,-12,18,7:05,58,24,87,3861
+78,Sacred Islands,Lokal Affair,24/01/2019,96,63,74,-13,6,7:10,4,2,88,5460
+79,Chakaruna - Drumspyder Remix,Poranguí,3/11/2017,75,73,71,-7,67,4:58,0,36,123,604
+80,Tiden Inne - Mose Remix,Baptiste Sejourne,24/09/2018,164,54,67,-10,49,9:02,39,32,89,6167
+81,Maria,Aleceo,7/01/2020,106,81,40,-8,7,9:50,1,0,221,8417
+82,Tarlabasi,Oceanvs Orientalis,26/08/2016,100,45,72,-10,7,9:02,10,37,90,9511
+83,Benijo,Yeahman,22/05/2017,81,83,70,-6,58,4:48,44,40,14,5027
+84,Earth Breath,BLOOM,17/08/2018,90,54,74,-13,65,4:09,62,53,91,5915
+85,Kingfisher,Liquid Bloom,30/07/2021,105,53,84,-13,15,7:19,20,21,49,9682
+86,Overgrown,Liquid Bloom,30/07/2021,109,55,70,-11,10,8:28,0,17,98,7288
+87,Refuge,Liquid Bloom,30/07/2021,90,63,58,-12,14,7:47,0,21,146,9747
+88,Glass Tempo - Gibson Remix,Jakare,16/04/2021,98,62,60,-10,4,8:25,8,7,92,2367
+89,Future DMT,Volcano,26/02/2018,142,98,66,-5,38,8:12,0,0,93,2897
+90,Mandala,Blastoyz,26/02/2018,143,95,63,-6,24,5:57,2,59,94,9841
+91,The Room (Braincell Remix),Yudhisthira,9/04/2013,146,89,64,-8,37,7:08,0,20,15,5591
+92,Sky - Original Mix,Yudhisthira,24/02/2014,145,95,76,-7,4,8:41,0,13,222,5169
+93,BLAST YOUR MIND,Drip Drop,31/05/2019,148,94,61,-5,28,7:14,0,25,95,6402
+94,Ego,ESCPE,17/02/2023,120,55,69,-9,14,3:28,18,24,96,9486
+95,Moon Stone,Super Future,1/07/2022,140,89,69,-4,22,3:33,8,18,100,5800
+96,Foresta,Vimana,11/11/2022,110,67,68,-10,5,7:08,17,0,101,3298
+97,King in My Empire,Rhythm & Sound,2003,126,24,89,-17,73,6:26,79,43,102,2090
+98,Are You Alive?,Orbital,17/02/2023,130,84,55,-8,52,7:49,0,43,103,8206
+99,Perseida,Ekaologik,14/09/2018,102,70,50,-10,14,6:11,0,11,104,6025
+100,Stages of Depth,Seamoon,20/01/2020,89,31,63,-16,6,8:19,9,13,105,9432
+101,ENERGIA SHAMANICA,GUILLERMO AREVALO,2004,73,3,21,-15,7,3:54,72,6,106,5873
+102,Ligeti: Lontano,György Ligeti,26/04/2002,74,6,14,-28,2,11:37,94,19,107,1309
+103,Gravity Waves 5. Lens By Lens. 6. Telescoping,David Hykes & The Harmonic Choir,1/01/2008,69,22,13,-18,3,24:08:00,99,18,108,2138
+104,OM Suite OM 1,Steven Halpern,11/11/2005,93,9,11,-21,3,4:50,85,23,109,5300
+105,Wandering Sadhu,Desert Dwellers,19/11/2012,170,55,56,-11,48,5:42,23,45,240,4773
+106,aqua,Shinsuke Matsumoto,11/05/2011,114,34,72,-17,13,7:43,30,0,110,6388
+107,Touch Me,Rui Da Silva,15/04/2002,128,93,78,-7,56,8:35,6,59,16,2670
+108,"Touch Me - Original 12"" mix",Rui Da Silva,2001,128,88,80,-9,76,8:35,6,45,223,8023
+109,Protection,Massive Attack,26/09/1994,168,42,58,-13,74,7:52,2,61,111,8862
+110,Akuru - Original mix,Zuma Dionys,5/04/2021,100,67,72,-8,10,7:12,7,13,112,5649
+111,Attraction - Victor Norman Remix,Sonya Rubleva,11/02/2019,103,44,78,-11,3,6:57,1,1,232,6521
+112,Shipibo Trance - Original,Shamanic Catharsis,10/09/2021,180,51,58,-12,16,4:43,25,10,113,3098
+113,Nuwerun,Aurelio,2004,137,91,73,-4,89,3:21,65,6,114,3727
+114,Wátina,Andy Palacio,2007,99,61,75,-7,77,4:43,41,23,115,6822
+115,Canto de Ossanha,Baden Powell,2008,90,40,58,-16,52,4:15,65,41,224,9499
+116,Agua De Beber,Astrud Gilberto,1/01/1965,148,36,65,-16,86,2:19,43,0,116,7856
+117,Samba E Amor,Bebel Gilberto,14/04/1996,112,14,80,-13,23,3:29,91,43,3,5639
+118,Kidda,Natacha Atlas,21/05/2010,91,71,66,-6,93,4:57,8,0,17,7857
+119,Marifnaash,Natacha Atlas,3/03/1997,110,79,66,-6,47,4:47,7,0,225,9632
+120,Tchiki Tchiki,Tony Gatlif,19/09/2006,157,72,48,-3,90,3:36,58,28,117,1459
+121,The Other Side,Alpha Portal,25/09/2017,143,88,66,-6,4,8:19,0,39,118,5042
+122,What Makes a Man,GMS,2/09/2019,145,91,62,-7,11,7:48,0,34,119,4421
+123,Forest Cure - Original Mix,Ajja,30/04/2021,144,94,53,-6,42,7:57,0,24,9,9748
+124,Not What - Original Mix,Ajja,30/04/2021,147,96,64,-6,47,8:16,0,18,124,4896
+125,Ninja Wobble - Original Mix,Ajja,30/04/2021,146,94,58,-5,37,8:36,0,14,233,9361
+126,Probability Space,Tristan,31/07/2020,146,89,68,-8,34,8:08,0,21,120,1579
+127,Altjira,PsiloCybian,15/11/2013,147,95,68,-10,33,7:34,0,27,126,8596
+128,Enter Nowhere,FLIPKNOT,31/01/2014,150,98,53,-6,19,6:43,0,16,127,471
+129,A Slippery Lynx (Feat. Shadow Fx),Tetrameth,15/09/2010,135,67,74,-10,32,10:40,4,20,18,8329
+130,The Eclectic Benevolence,Tetrameth,15/09/2010,137,62,76,-9,24,13:00,6,15,226,2728
+131,BAM,HYPRFOCUS,17/04/2023,142,94,69,-4,73,2:25,2,34,128,6526
+132,KARMA (With Jazz Cartier),ROSSY,11/11/2022,150,94,30,-3,19,3:18,2,51,129,8609
+133,Take Me Home,sumthin sumthin,27/01/2023,140,60,72,-5,25,3:21,18,42,130,1470
+134,Anything,Alison Wonderland,13/11/2020,120,91,77,-5,42,3:46,18,55,131,1843
+135,TRIBAL HIT,Baauer,17/12/2020,142,81,74,-5,30,3:09,4,37,132,4497
+136,Tribal Trap,Peace Sine,17/12/2020,130,49,80,-6,12,2:46,0,46,133,1944
+137,SUB ZERO,Just A Gent,18/11/2020,130,90,80,-6,15,3:14,5,53,134,9618
+138,Tribal Trap,The GhostWriter,3/09/2017,150,81,75,-7,94,2:54,48,0,135,3293
+139,Adventure In Istanbul,Byzantine Time Machine,1/06/2018,140,89,58,-7,33,3:21,5,21,136,4317
+140,Voyage,CICI Zhu,28/10/2021,142,52,65,-10,50,4:04,17,11,137,7567
+141,Cheetah,Jean Vayat,29/08/2021,108,70,81,-10,13,7:47,24,34,138,386
+142,The Tribe,Vini Vici,13/04/2015,138,96,60,-7,18,7:56,1,0,139,4981
+143,Bayaka,Berg,28/03/2016,138,87,69,-7,37,7:01,1,49,140,3123
+144,Dawn,Kompass,21/07/2020,170,44,55,-8,11,7:32,1,0,141,8828
+145,Rainbow Serpent,Basher Toe,12/12/2019,192,78,62,-7,16,6:05,7,19,142,1934
+146,Jubel - Radio Edit,Klingande,1/01/2014,125,52,69,-7,10,3:22,65,55,143,4254
+147,Hallucinate,Dua Lipa,27/03/2020,122,69,63,-5,63,3:29,3,70,144,9477
+148,ily (i love you baby) (feat. Emilee),Surf Mesa,26/11/2019,112,77,67,-8,33,2:57,7,78,148,4058
+149,Superstylin',Groove Armada,11/07/2001,129,80,74,-8,93,6:00,0,63,149,4168
+150,Sonnentanz - Sun Don't Shine,Klangkarussell,1/01/2014,120,55,58,-8,16,3:58,10,72,150,6929
+151,Something About You,Hayden James,19/12/2014,115,64,85,-8,62,3:43,35,53,19,7120
+152,Duality,Arjuna,20/07/2015,150,89,57,-7,26,9:00,0,20,151,6692
+153,Afous Dafous,Tartit,25/01/2019,177,26,49,-17,76,3:12,75,34,152,3362
+154,Tongo Barra,Vieux Farka Touré,31/08/2022,113,74,65,-7,86,5:33,23,48,153,8166
+155,Tobiume,Susumu Yokota,21/07/1999,139,25,24,-17,4,4:39,99,44,154,8844
+156,Golden Clouds,The Orb,2/09/2012,100,86,77,-7,45,5:45,2,25,155,4400
+157,Take Yo' Praise,Camille Yarbrough,1/01/1975,101,53,80,-14,53,4:14,72,59,156,134
+158,Stoned To The Bone (Some More),James Brown,1/01/2010,98,86,89,-8,91,5:25,10,15,157,5886
+159,Caught You Lying Again,Joe Thomas,1/01/2005,101,68,69,-12,79,5:19,14,4,158,3642
+160,Funk #49,James Gang,1/01/1970,91,94,65,-8,72,4:06,4,63,159,3471
+161,People Say,The Meters,1974,104,66,83,-13,84,5:19,15,48,160,7922
+162,Like Sugar,Chaka Khan,15/02/2019,107,79,81,-8,94,4:00,4,59,164,4234
+163,Dharawi Nights,Secretpath,17/02/2017,172,40,39,-17,16,3:57,76,52,165,5082
+164,Ilaló,Chancha Via Circuito,8/06/2018,95,48,76,-10,12,5:01,13,0,166,679
+165,Medicina,Ohme,28/06/2019,105,52,81,-13,64,5:09,6,33,167,134
+166,Pismo Ceniza,Yeahman,22/05/2017,164,53,65,-13,74,4:06,87,51,227,5455
+167,Butterfly,Xavier Rudd,1/01/2012,122,31,55,-14,35,2:11,83,54,168,264
+168,The Water Blessing Song - Mose & Binder Remix,Mose,22/09/2020,148,49,75,-11,38,8:32,65,42,169,6971
+169,Nevada,Kerala Dust,6/02/2017,108,14,91,-15,36,6:03,62,0,170,542
+170,Nocturne,Inofaith,19/08/2011,130,52,73,-12,10,7:12,27,23,171,2805
+171,Urban Birds,Praah Musique,18/12/2017,78,44,71,-13,44,6:32,56,0,172,8563
+172,For Those Who Wait - Foxall Remix,Kariyan,3/07/2020,160,37,65,-16,29,6:21,63,35,173,2381
+173,Who Loves The Sun,Jo.Ke,12/07/2011,120,69,99,-10,69,9:22,19,65,174,2139
+174,Planet Caravan,Black Sabbath,18/09/1970,88,9,42,-25,41,4:30,93,61,175,2271
+175,Bloodflow,Grandbrothers,20/10/2017,97,62,48,-13,38,5:59,65,53,176,1678
+176,Ashram,Klute,26/07/2010,174,91,41,-6,21,6:56,0,35,177,3003
+177,Flames,Rapossa,20/08/2017,100,59,81,-11,7,6:53,7,42,178,5021
+178,From Your Mind,Govinda,3/12/2007,105,51,72,-9,65,3:37,12,29,179,1251
+179,Return of the Bird Tribes - Equanimous Edit,Deya Dova,20/08/2021,160,79,60,-8,51,4:55,5,24,180,3268
+180,Ay Que Sera Del Sol - Original,Rodrigo Gallardo,21/06/2016,100,53,77,-11,39,6:30,0,52,181,5151
+181,Cuando Tú Quieras,J Balvin,25/05/2018,184,67,70,-5,76,3:25,36,50,183,8537
+182,Pavamana,Ben & Vincent,26/08/2022,120,83,70,-8,26,7:40,8,12,184,7677
+183,Ecstacy - Radio Edit,ATB,4/05/2013,135,96,62,-5,97,2:59,8,40,185,6560
+184,Unlocking the Doors of Eternity,Ape Chimba,21/01/2020,138,4,18,-23,5,11:43,98,36,186,5056
+185,Prayer for the Last Human,Kevin Wrenn,20/04/2020,75,35,13,-12,7,5:47,69,32,20,9744
+186,Wacomaya,Coletivo da Aldeia Nova Esperança,28/04/2015,87,28,35,-8,21,2:43,67,41,187,7821
+187,Tvameva,Sudha,1/06/2007,85,17,23,-20,16,4:15,89,49,188,7837
+188,Icaro of the River Dolphin,Maneesh de Moor,24/03/2019,93,25,56,-15,51,7:36,68,28,162,2004
+189,Pure Realm,Maneesh de Moor,17/04/2019,76,2,13,-28,4,15:23,98,33,237,1488
+190,Galaxy,Maok,10/01/2019,119,15,18,-20,3,8:48,96,24,189,1676
+191,Haseya,Ajeet,28/10/2016,111,15,50,-19,15,6:53,90,53,190,5260
+192,Womb Pulse,Kevin Wrenn,21/12/2020,89,26,10,-15,3,7:13,67,33,228,2558
+193,The Embrace,Ashana,1/01/2006,71,1,14,-17,4,8:56,99,49,10,5519
+194,Hymn,Ashana,1/01/2009,70,6,9,-18,3,9:30,99,46,125,712
+195,Heart of Gaia,Ashana,1/01/2009,76,10,17,-18,2,8:34,99,48,234,2800
+196,Invocation- Dhyana Slokas,Narayan Jyoti & Ron Paz,29/04/2010,176,10,25,-12,14,4:31,75,16,191,3634
+197,Icaro Madresita (Dear Mother Icaro),Silvia Nakkach,16/05/2012,116,2,49,-18,46,1:50,94,0,192,8336
+198,The Host of Seraphim,Dead Can Dance,14/10/1991,57,26,14,-15,3,6:17,0,36,193,7641
+199,Amar: The Storm,Armand Amar,25/09/2015,72,7,22,-19,4,3:59,93,31,197,3487
+200,Blessed We Are,Peia,30/10/2015,170,25,38,-14,9,7:16,94,0,198,6459
+201,Samba da Bencao,Bebel Gilberto,14/04/1996,81,50,66,-10,57,4:47,16,48,60,3502
+202,August Day Song,Bebel Gilberto,14/04/1996,103,29,72,-13,22,4:37,62,39,121,4502
+203,Tanto Tempo,Bebel Gilberto,14/04/1996,118,42,47,-11,36,3:02,65,37,182,8433
+204,Rio,Bebel Gilberto,14/05/2013,130,43,75,-16,39,5:11,72,20,239,5559
+205,Lembrança da Escravidão,Mestre Roxinho,2013,134,30,61,-15,61,10:06,72,24,199,3706
+206,Capoeira Não Pode Parar,Carolina Soares,1/01/2008,96,80,52,-6,51,3:27,58,20,200,8727
+207,Sou Capoeira,Mestre Suassuna,15/05/2017,113,66,79,-8,76,5:30,84,20,201,6166
+208,Re-Discovery,Merkaba,11/01/2011,138,51,74,-15,18,11:11,32,14,21,659
+209,Tantric Fusion,Merkaba,18/07/2012,134,51,79,-13,18,9:27,1,18,229,1342
+210,Marimbora - Original,Sabo,21/06/2016,105,70,75,-8,51,7:28,2,37,202,1408
+211,Epico,PAAX (Tulum),14/01/2019,105,65,95,-8,50,3:08,25,57,203,3252
+212,Pokhara Love,Yør Kultura,30/01/2017,110,46,88,-11,12,8:05,48,32,204,6063
+213,Sapana,Sahalé,6/09/2019,110,52,82,-15,43,4:45,73,48,205,7816
+214,Photonic,Etnica,9/11/2004,140,94,63,-10,4,10:25,0,3,206,6846
+215,New Life - Original Mix,Photonics,30/04/2021,138,71,54,-9,13,7:56,0,2,207,405
+216,Darkest Hour,Sevdaliza,28/08/2020,100,70,69,-10,8,4:29,29,47,208,2405
+217,Roots of the Earth - Medicina Mix,Liquid Bloom,27/01/2015,120,43,54,-13,4,16:40,39,41,195,5004
+218,All Related - Fantastic Fungi Mix,Nessi Gomes,9/10/2020,145,58,63,-11,49,6:29,13,38,209,47
+219,Preparing the Path - Skysia Remix,Poranguí,10/03/2023,120,51,68,-8,13,3:54,10,31,235,7965
+220,Sacred Blessing,Liquid Bloom,27/01/2015,85,32,13,-16,4,7:56,17,40,241,9929
+221,Sophonisbe - Sahale Remix,Jugurtha,14/05/2018,112,38,80,-12,15,6:36,50,44,2,2213
+222,Undersand,Princebaba,17/04/2020,174,84,73,-8,75,5:35,6,30,210,1997
+223,Le Regard Du Loup,Jugurtha,27/08/2018,110,54,85,-11,27,7:52,11,29,50,8912
+224,Odalisque - Rafael Aragon Remix,Jugurtha,2/04/2018,95,46,73,-11,11,7:59,1,27,99,5264
+225,Khayyam,Jugurtha,27/01/2017,110,31,78,-13,11,11:22,40,33,147,8679
+226,Tunisia - Zigan Aldi Remix,SANDER (FR),28/01/2019,105,82,85,-8,11,6:15,18,23,211,4567
+227,Ipermaho,Jugurtha,6/12/2019,108,42,74,-15,11,9:18,11,24,196,3711
+228,Jannaty,Jugurtha,1/05/2020,105,21,71,-23,35,9:57,47,4,242,9344
+229,Music Makes Me Happy,OKA,1/01/2005,120,64,76,-9,30,4:52,36,30,6,7221
+230,Galiano,OKA,1/01/2007,88,33,72,-15,46,6:14,69,33,82,3145
+231,Shesha,OKA,10/08/2009,100,34,78,-18,72,6:19,53,10,163,1162
+232,The Dreaming,OKA,10/08/2009,172,55,63,-15,75,4:39,62,17,238,2966
+233,Flow,Dirt Monkey,1/03/2023,145,85,69,-3,49,3:05,3,41,212,3281
+234,Milambi,Pablo Nouvelle,24/01/2020,122,49,70,-9,43,3:13,30,44,213,4151
+235,Lights Go Down (with SIDEPIECE),Hayden James,8/04/2022,123,82,89,-4,78,3:03,0,61,230,7865
+236,Hypnotize,Kebin van Reeken,31/03/2023,122,86,81,-6,21,4:08,0,23,214,3788
+237,Labyrinth - Extended Mix,Austin Pettit,4/03/2022,125,87,62,-8,7,6:29,0,29,215,7925
+238,Nightalkers,Dabeat,2/09/2022,124,88,78,-7,21,8:35,0,26,216,2764
+239,Metanoia,NOIYSE PROJECT,10/06/2022,122,88,77,-10,25,8:31,0,27,217,3453
+240,The Parade,Joel Corry,4/02/2022,124,89,79,-5,28,2:39,0,67,218,4374
+241,You Were Right,RÜFÜS DU SOL,22/01/2016,122,79,71,-5,73,3:59,1,73,22,6462
+242,On My Knees,RÜFÜS DU SOL,23/09/2021,120,57,68,-8,29,4:21,3,65,231,3504
+243,Cold Heart - PNAU Remix,Elton John,13/08/2021,116,80,80,-6,94,3:23,3,87,219,9097
+,,,,,,,,,,,,,
